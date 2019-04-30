@@ -1,0 +1,18 @@
+{
+    "info": {
+        "id": "user-banner",
+        "name": "User Banner",
+        "authors": [
+            {
+                "name": "Alten",
+                "discord_id": "184061887212814336",
+                "github_username": "AltenGD",
+                "twitter_username": "gd_alten"
+            }
+        ],
+        "version": "1.0",
+        "description": "Adds a banner image to users"
+    },
+    "main": "index.js",
+    "mainExport": "main"
+}
